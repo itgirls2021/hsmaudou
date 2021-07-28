@@ -1,7 +1,7 @@
 body {
-    color: slategrey
-    background-color: lightcyan
+    color: lightsteelblue
+    background-color: lightcyan;
 }
 h1 {color: palevioletred;}
-h2 {color: mediumpurple;}
-a {color: lightsteelblue;}
+h2 {color: lightpink;}
+a {color: cornflowerblue;}
