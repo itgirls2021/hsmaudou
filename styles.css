@@ -1,7 +1,12 @@
 body {
     color: lightslategray;
     background-color: lightcyan;
+    font-family: Times, serif;
 }
-h1 {color: palevioletred; background-color: lavenderblush}
-h2 {color: lightpink;}
+h1 {color: palevioletred; background-color: lavenderblush;
+    font-family: 'Oswald', sans-serif;
+}
+h2 {color: lightpink;
+    font-family: 'Oswald', sans-serif;
+}
 a {color: cornflowerblue;}
