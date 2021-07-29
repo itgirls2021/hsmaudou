@@ -2,6 +2,6 @@ body {
     color: lightslategray;
     background-color: lightcyan;
 }
-h1 {color: palevioletred;}
+h1 {color: palevioletred; background-color: lavenderblush}
 h2 {color: lightpink;}
 a {color: cornflowerblue;}
