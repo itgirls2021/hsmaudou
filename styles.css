@@ -9,4 +9,9 @@ h1 {color: palevioletred; background-color: lavenderblush;
 h2 {color: lightpink;
     font-family: 'Oswald', sans-serif;
 }
-a {color: cornflowerblue;}
+nav {background-color: mistyrose;}
+
+nav a {color: cornflowerblue;}
+nav {color: cornflowerblue;}
+
+nav a:hover {background-color: pink;}
