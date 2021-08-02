@@ -9,7 +9,11 @@ h1 {color: palevioletred; background-color: lavenderblush;
 h2 {color: lightpink;
     font-family: 'Oswald', sans-serif;
 }
-nav {background-color: mistyrose;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: mistyrose;
+    }
 
 nav a {color: cornflowerblue;}
 nav {color: cornflowerblue;}
