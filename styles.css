@@ -19,3 +19,11 @@ nav a {color: cornflowerblue;}
 nav {color: cornflowerblue;}
 
 nav a:hover {background-color: pink;}
+
+div {
+    border: 1px solid lightsteelblue;
+    margin: 30px;
+    padding: 50px;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
