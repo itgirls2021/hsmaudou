@@ -3,7 +3,7 @@ body {
     background-color: lightcyan;
     font-family: Times, serif;
 }
-h1 {color: steelblue; background-color: lightsteelblue ;
+h1 {color: steelblue; background-color: paleturquoise;
     font-family: 'Oswald', sans-serif;
 }
 h2 {color: powderblue;
@@ -12,7 +12,7 @@ h2 {color: powderblue;
 nav {
     padding: 10px;
     margin-bottom: 30px;
-    background-color: lightsteelblue;
+    background-color: lightskyblue;
     }
 
 nav a {color: cornflowerblue;}
