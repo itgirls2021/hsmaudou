@@ -3,25 +3,25 @@ body {
     background-color: lightcyan;
     font-family: Times, serif;
 }
-h1 {color: palevioletred; background-color: lavenderblush;
+h1 {color: steelblue; background-color: lightsteelblue ;
     font-family: 'Oswald', sans-serif;
 }
-h2 {color: lightpink;
+h2 {color: powderblue;
     font-family: 'Oswald', sans-serif;
 }
 nav {
     padding: 10px;
     margin-bottom: 30px;
-    background-color: mistyrose;
+    background-color: lightsteelblue;
     }
 
 nav a {color: cornflowerblue;}
 nav {color: cornflowerblue;}
 
-nav a:hover {background-color: pink;}
+nav a:hover {background-color: skyblue;}
 
 div {
-    border: 1px solid lightsteelblue;
+    border: 1px solid lightblue;
     margin: 30px;
     padding: 50px;
     background-color: aliceblue;
